@@ -45,6 +45,11 @@
       <version>7.32.0.Final</version>
       <scope>provided</scope>
     </dependency>
+    <dependency>
+      <groupId>org.kie.example.traffic</groupId>
+      <artifactId>org.kie.example.traffic</artifactId>
+      <version>1.0.0</version>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
